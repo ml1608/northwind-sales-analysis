@@ -1,4 +1,4 @@
-# northwind-sales-analysis 📊
+# Northwind Sales Analysis 📊
 
 This project presents an in-depth data analysis of global sales data for **Northwind Traders**, an international reseller and distributor.
 
@@ -21,13 +21,25 @@ The analysis aims to help Northwind Traders:
 
 ---
 
-## 📂 File Structure
+## 🛠️ Tools Used
 
-```plaintext
-📁 Northwind-Sales-Analysis/
-├── 📊 Northwind_Trader_Global_Sales_Data_2020_2021_2022.xlsx
-├── 🧾 T5_Dataset_Evaluation_Report.pdf
-├── 🧾 T7_Analysis_Request_Proposal.pdf
-├── 📈 Tableau_Dashboard_Snapshots/
-│   └── *.png (dashboard images)
-├── 📄 README.md
+- **Excel** – For data cleaning, transformation, and aggregation  
+- **Tableau** – For creating interactive dashboards and visualizations  
+- **Google Docs** – For collaborative analysis and report writing  
+- **PDF Reports** – For communicating findings and formal documentation  
+
+---
+
+## 🧠 Key Insights
+
+- The **United States, Germany, and Austria** had the highest total order values.
+- Sales **peak from May to August** and are lowest between **October and January**.
+- **Beverages and Dairy Products** are top-selling categories; **Grains/Cereals** and **Produce** lag behind.
+- **2022** emerged as the most profitable year, though some months are missing in the data.
+- Strategic recommendations include:
+  - Offering **seasonal discounts** during low-sales periods
+  - Boosting supply and marketing in **high-performing regions**
+  - Investigating **shipping costs and customer satisfaction** to improve profitability
+
+---
+
